@@ -28,15 +28,15 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/yourusername/flutter-todo-app.git
-   cd flutter-todo-app```
+   cd flutter-todo-app
    
 2.	Install dependencies:
     ```bash
-   flutter pub get```
+    flutter pub get
 
 3.	Run the app:
-  ```bash
-   flutter run```	
+     ```bash
+     flutter run
 
 ## Usage
 
